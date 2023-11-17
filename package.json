@@ -1,14 +1,15 @@
 {
-  "name": "ice-ice-baby",
-  "displayName": "ice ice baby",
+  "name": "ice-cube",
+  "displayName": "ICE CUBE 🧊",
   "description": "VS Code them for my frozen community 🧊",
   "version": "1.0.0",
+  "publisher": "ncfrak",
   "engines": {
     "vscode": "^1.78.0"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/ncfrak/ice-ice-baby"
+    "url": "https://github.com/ncfrak/ice-cube"
   },
   "categories": [
     "Themes"
@@ -16,14 +17,14 @@
   "contributes": {
     "themes": [
       {
-        "label": "ICE ICE Baby light",
+        "label": "ICE CUBE light",
         "uiTheme": "vs",
-        "path": "./themes/ICE-ICE-baby-light-color-theme.json"
+        "path": "./themes/ICE-CUBE-light-color-theme.json"
       },
       {
-        "label": "ICE ICE Baby dark",
+        "label": "ICE CUBE dark",
         "uiTheme": "vs",
-        "path": "./themes/ICE-ICE-baby-dark-color-theme.json"
+        "path": "./themes/ICE-CUBE-dark-color-theme.json"
       }
     ]
   }
