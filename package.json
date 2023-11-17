@@ -2,7 +2,7 @@
   "name": "ice-cube",
   "displayName": "ICE CUBE 🧊",
   "description": "VS Code them for my frozen community 🧊",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "publisher": "ncfrak",
   "engines": {
     "vscode": "^1.78.0"
@@ -11,9 +11,31 @@
     "type": "git",
     "url": "https://github.com/ncfrak/ice-cube"
   },
+  "keywords": [
+    "Theme",
+    "Dark Theme",
+    "Light Theme",
+    "ICE CUBE",
+    "ICE CUBE Theme",
+    "ICE CUBE Dark Theme",
+    "ICE CUCE Light Theme",
+    "Snow theme",
+    "Blue theme",
+    "Frozen theme",
+    "Ice Blue theme",
+    "Mountain theme",
+    "Ski theme",
+    "Icy theme",
+    "ICE",
+    "Icy",
+    "Snow",
+    "Blue",
+    "Frozen"
+  ],
   "categories": [
     "Themes"
   ],
+  "icon": "ice-cube-icon.jpg",
   "contributes": {
     "themes": [
       {
@@ -23,7 +45,7 @@
       },
       {
         "label": "ICE CUBE dark",
-        "uiTheme": "vs",
+        "uiTheme": "vs-dark",
         "path": "./themes/ICE-CUBE-dark-color-theme.json"
       }
     ]
