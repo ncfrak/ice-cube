@@ -2,7 +2,7 @@
   "name": "ice-cube",
   "displayName": "ICE CUBE 🧊",
   "description": "VS Code them for my frozen community 🧊",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "publisher": "ncfrak",
   "engines": {
     "vscode": "^1.78.0"
