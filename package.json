@@ -1,0 +1,26 @@
+{
+  "name": "ice-ice-baby",
+  "displayName": "ice ice baby",
+  "description": "Frozen ice",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.78.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "ICE ICE Baby light",
+        "uiTheme": "vs",
+        "path": "./themes/ICE-ICE-baby-light-color-theme.json"
+      },
+      {
+        "label": "ICE ICE Baby dark",
+        "uiTheme": "vs",
+        "path": "./themes/ICE-ICE-baby-dark-color-theme.json"
+      }
+    ]
+  }
+}
