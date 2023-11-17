@@ -1,16 +1,21 @@
-# ice-ice-baby README
+# ICE ICE baby ❄️☃️⛷️
 
-## Working with Markdown
+A Visual Studio Code theme for my frozen community 🧊.
 
-You can author your README using Visual Studio Code. Here are some useful editor keyboard shortcuts:
+I really love working in both light and dark themes, so this package includes a light and a dark theme.
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux).
-* Toggle preview (`Shift+Cmd+V` on macOS or `Shift+Ctrl+V` on Windows and Linux).
-* Press `Ctrl+Space` (Windows, Linux, macOS) to see a list of Markdown snippets.
+## Light ICE ICE BABY
+INSERT PICTURE
 
-## For more information
+## Dark ICE ICE BABY
+INSERT PICTURE
 
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+# Installation
 
-**Enjoy!**
+1.  Install [Visual Studio Code](https://code.visualstudio.com/)
+2.  Launch Visual Studio Code
+3.  Choose **Extensions** from menu
+4.  Search for `ice ice baby`
+5.  Click **Install** to install it
+6.  Click **Reload** to reload the Code
+7.  From the menu bar click: Code > Preferences > Color Theme > **ICE ICE baby**

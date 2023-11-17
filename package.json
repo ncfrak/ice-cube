@@ -1,7 +1,7 @@
 {
   "name": "ice-ice-baby",
   "displayName": "ice ice baby",
-  "description": "VS Code them for my frozen ice community 🧊",
+  "description": "VS Code them for my frozen community 🧊",
   "version": "1.0.0",
   "engines": {
     "vscode": "^1.78.0"
