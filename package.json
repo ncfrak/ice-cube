@@ -1,10 +1,14 @@
 {
   "name": "ice-ice-baby",
   "displayName": "ice ice baby",
-  "description": "Frozen ice",
-  "version": "0.0.1",
+  "description": "VS Code them for my frozen ice community 🧊",
+  "version": "1.0.0",
   "engines": {
     "vscode": "^1.78.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ncfrak/ice-ice-baby"
   },
   "categories": [
     "Themes"
